@@ -17,5 +17,8 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "voku/simple_html_dom": "^4.8",
+        "php": ">=7.3"
+    }
 }
