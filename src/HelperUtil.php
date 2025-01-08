@@ -19,13 +19,13 @@
 namespace Foskytech\WiseduUnifiedLogin;
 
 class HelperUtil {
-    public function encrypt(string $pass, string $key): string
+    static public function encrypt(string $pass, string $key): string
     {
         $encrypted = openssl_encrypt(self::random_string(64) . $pass, 'AES-128-CBC', $key, 0, self::random_string(16));
 
         return $encrypted;
     }
-    public function random_string($length = 64, $chars = null): string
+    static public function random_string($length = 64, $chars = null): string
     {
         $s = '';
         if (empty($chars))
