@@ -1,0 +1,21 @@
+{
+    "name": "foskytech/wisedu-unified-login",
+    "description": "金智教育统一登录系统的模拟登录实现",
+    "type": "library",
+    "license": "AGPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "Foskytech\\WiseduUnifiedLogin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "FoskyM",
+            "email": "i@fosky.top",
+            "homepage": "https://fosky.top",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
