@@ -34,6 +34,12 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 已知可用 `中国计量大学` 的统一登录。理论支持其它金智系统。
 
+## 安装
+
+```shell
+composer require foskytech/wisedu-unified-login
+```
+
 ## 示例
 
 见 [example](/example/example.php)
