@@ -36,4 +36,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## 示例
 
-见 [example](/example/test.php)
+见 [example](/example/example.php)
