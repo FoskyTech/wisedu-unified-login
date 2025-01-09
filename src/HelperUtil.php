@@ -16,7 +16,7 @@
 
 // The file created at 2025/01/08 23:03.
 
-namespace Foskytech\WiseduUnifiedLogin;
+namespace FoskyTech\WiseduUnifiedLogin;
 
 class HelperUtil {
     static public function encrypt(string $pass, string $key): string

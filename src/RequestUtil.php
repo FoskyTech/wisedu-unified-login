@@ -17,7 +17,7 @@
 
 // The file created at 2025/01/08 22:57, copied from my private repo `cjlu-cp-v3`.
 
-namespace Foskytech\WiseduUnifiedLogin;
+namespace FoskyTech\WiseduUnifiedLogin;
 
 class RequestUtil
 {

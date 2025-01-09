@@ -16,12 +16,12 @@
 
 // The file created at 2025/01/08 22:54.
 
-namespace Foskytech\WiseduUnifiedLogin;
+namespace FoskyTech\WiseduUnifiedLogin;
 
 use voku\helper\HtmlDomParser;
 
-use Foskytech\WiseduUnifiedLogin\RequestUtil;
-use Foskytech\WiseduUnifiedLogin\HelperUtil;
+use FoskyTech\WiseduUnifiedLogin\RequestUtil;
+use FoskyTech\WiseduUnifiedLogin\HelperUtil;
 
 class AuthServer {
     protected string $base_uri;

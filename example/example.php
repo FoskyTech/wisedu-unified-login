@@ -2,7 +2,7 @@
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-use Foskytech\WiseduUnifiedLogin\AuthServer;
+use FoskyTech\WiseduUnifiedLogin\AuthServer;
 
 $authserver = new AuthServer('https://authserver.cjlu.edu.cn');
 
